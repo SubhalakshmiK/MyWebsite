@@ -26,12 +26,27 @@ nav{
     flex-basis: 20%;
 }
 
-nav-links{
+.nav-links{
     display: flex;
-    background-color: Red;
+    justify-content: space-around;
+    width: 30%;
     
-    list-style: none;
-    flex: 1;
-    display: inline-block;
-    text-align: right;
 }
+
+.nav-links li{
+    list-style: none;
+  
+}
+
+.nav-links a{
+    color: Blue;
+    font-size: 1.2em;
+    font-weight: 500;
+    text-decoration: none;
+    list-style: none;
+    display: inline-block;
+    margin: 0 15px;
+    transition: color 0.3s ease;color: 
+}
+
+.nav-links 
