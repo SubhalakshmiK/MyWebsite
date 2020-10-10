@@ -55,6 +55,7 @@ nav{
 
 .nav-links-button{
     display: none;
+    cursor: pointer;
 }
 
 .nav-links-button div {
@@ -87,6 +88,7 @@ nav{
       align-items: center;
       width: 50%;
       transform: translateX(100%);
+      transition: transform 0.5s ease-in;
   }
   .nav-links li{
       opacity: 0;
@@ -94,5 +96,23 @@ nav{
   }
   .nav-links-button{
       display: block;
+  }
+}
+
+.nav-active{
+      transform: translate(0%);
+  
+}
+
+@heyframes navLinkFade {
+  from{
+      opacity: 0;
+      transform: translateX(50px);  
+    
+  }
+  to{
+      opacity: 1;
+      transform: translate(0px);
+    
   }
 }
