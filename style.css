@@ -65,4 +65,34 @@ nav{
     
 }
 
-@media screen and (max-width)
+@media screen and (max-width: 1024px){
+  .nav-links{
+      width: 60%;
+  }
+}
+
+@media screen and (max-width: 768px){
+  body{
+      overflow-x: hidden;
+
+  }
+  .nav-links{
+      position: absolute;
+      right: 0px;
+      height: 92vh;
+      top: 8vh;
+      background-color: #80ff80; 
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 50%;
+      transform: translateX(100%);
+  }
+  .nav-links li{
+      opacity: 0;
+    
+  }
+  .nav-links-button{
+      display: block;
+  }
+}
