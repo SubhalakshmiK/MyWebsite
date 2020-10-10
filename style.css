@@ -17,6 +17,9 @@ nav{
     transition: all 0.3s ease;
 }
 
+.boxed {
+  border: 1px solid green ;
+}
 
 .logo { 
     color: rgb(0, 255, 255);
@@ -116,3 +119,4 @@ nav{
     
   }
 }
+
