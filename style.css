@@ -132,8 +132,7 @@ body
      margin:0;
 }
 
-.container
-{
+.container {
      width: 400px;
      height: 450px;
      margin: 100px auto;
@@ -145,8 +144,7 @@ body
   
 }
 
-.container1
-{
+.container1 {
      width: 1420px;
      height: 450px;
      background: lightblue;
@@ -159,8 +157,7 @@ body
   
 }
 
-.container2
-{
+.container2 {
      width: 400px;
      height: 250px;
      background: lightblue;
@@ -173,8 +170,7 @@ body
   
 }
 
-.container3
-{
+.container3 {
      width: 400px;
      height: 250px;
      background: lightblue;
@@ -186,22 +182,7 @@ body
      border: 5px solid orange;
 }
 
-.container4
-{
-     width: 400px;
-     height: 250px;
-     background: lightblue;
-     position: relative;
-     align-items: right;
-     float: left;
-     margin-left: 25px;
-     margin-top: 100px;
-     border: 5px solid orange;
-}
-
-
-.container5
-{
+.container4 {
      width: 400px;
      height: 250px;
      background: lightblue;
@@ -214,8 +195,20 @@ body
 }
 
 
-.container6
-{
+.container5 {
+     width: 400px;
+     height: 250px;
+     background: lightblue;
+     position: relative;
+     align-items: right;
+     float: left;
+     margin-left: 25px;
+     margin-top: 100px;
+     border: 5px solid orange;
+}
+
+
+.container6 {
      width: 200px;
      height: 250px;
      background: lightblue;

@@ -8,12 +8,28 @@ Click `Show` in the header to see your app live. Updates to your code will insta
 Find out more [about Glitch](https://glitch.com/about).
 
 
-Your Project
-------------
+Assignment_2 on using HTML, CSS and Js to create a website at IIIT Hyderabad
+----------------------------------------------------------------------------
 
 ### ← README.md
 
-That's this file, where you can tell people what your cool website does and how you built it.
+Created a personal website at IIIT hyderabad where I add 4 subsections/sub-pages with responsive navigation bar which can move from one navigation link to another 
+
+First page - Home ( very attractive page)
+
+* which I used html, css styles and js query scripts to elegantly enhances many features on that page manually and responsive sliding also performed. Transformation of navigation links from Blue to white on cursor touch has enabled.
+* scrolled down the page top to bottom, right to left in any width of page set up and compatible with all browser has been enabled.
+
+Second page - About me
+* brief intro about me
+
+Third page - hobbies
+* Hobbies which i like to do in paragraphs were added 
+
+Fourth page - Resources for students
+* Students resources for career growth
+
+Citation: Made with glitch.com
 
 ### ← index.html
 
