@@ -145,10 +145,10 @@ body
 
 .container1
 {
-     width: 400px;
-     height: 400px;
+     width: 1200px;
+     height: 600px;
      margin: 100px auto;
-     background: orange;
+     background: lightblue;
      position: relative;
      align-items: right;
      float: left;
