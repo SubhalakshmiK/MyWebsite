@@ -251,46 +251,44 @@ li1 {
     border: 1px solid Blue;
     text-align: center;
     
+    
 }
 
 
 .home .max-width {
-    margin: auto 200px auto 1000px;
+    margin: auto 10px auto 900px;
     text-align: center;
   
 }
 
 .home .home-content .text-1 {
-    font-size: 30px;
+    font-size: 35px;
     text-align: left;
     position: relative;
-    text-color: Yellow;
-  
-}
-  .home .home-content .text-1 span{
     color: yellow;
     font-weight: 800;
-  }
-    
+   
   
 }
-
+  
 .home .home-content .text-2 {
-    font-size: 50px;
+    font-size: 75px;
     position: relative;
     text-align: left;
-    
+    color: White;
+    font-weight: 800;
 }
 
 .home .home-content .text-3 {
-    font-size: 40px;
-    margin: 5px 0;
+    font-size: 35px;
+    margin: 0px 0;
     position: relative;
     text-align: center;
+    color: yellow;
   
 }
 
 .home .home-content .text-3 span {
-    color: yellow;
-    font-weight: 800;
+    color: HotPink;
+    font-weight: 1000;
 }
