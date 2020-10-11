@@ -146,7 +146,7 @@ body
 .container1
 {
      width: 1200px;
-     height: 600px;
+     height: 400px;
      margin: 100px auto;
      background: lightblue;
      position: relative;
@@ -180,5 +180,15 @@ body
      float: right;
      margin: 15px;
   
+}
+
+
+li1 {
+ list-style-Type: none;
+ padding: 0 0 4px 23px;
+ background: url(https://www.computerhope.com/cdn/arrow.png) no-repeat left center;
+ font-familiy: Comic Sans MS, Comic Sans, cursive;
+ font-size:20px;
+ font-style:italic;
 }
   
