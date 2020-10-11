@@ -249,12 +249,18 @@ li1 {
 }
   
 .home {
-    display: flex;
+    /*display: flex;
     background: url("https://www.metoffice.gov.uk/binaries/content/gallery/metofficegovuk/hero-images/advice/maps-satellite-images/satellite-image-of-globe.jpg") no-repeat;
     height: 100vh;
     color: White;
     min-height: 250px;
     width: 1800px auto;
+    font-family: sans-serif;*/
+    display: flex;
+    background: url("https://www.metoffice.gov.uk/binaries/content/gallery/metofficegovuk/hero-images/advice/maps-satellite-images/satellite-image-of-globe.jpg") no-repeat center;
+    height: 100vh;
+    color: White;
+    min-height: 500px;
     font-family: sans-serif;
     flex-basis: 200%; 
     background-size: contain;
