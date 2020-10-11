@@ -152,9 +152,19 @@ body
      position: relative;
      top: 50%;
      color: purple;
-     transform: translateY(-50);
+     transform: translateY(-100);
   
        
        
+}
+
+.container .box {
+     position: relative;
+     width: calc(400px - 30px);
+     height: calc(400px - 30px);
+     background: #ff0;
+     float: right;
+     margin: 15px;
+  
 }
   
