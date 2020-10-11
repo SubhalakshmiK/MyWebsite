@@ -9,13 +9,12 @@
 nav{
     display: flex;
     justify-content: space-around;
-    align-items: top;
-    min-height: 80vh;
+    align-items: center;
+    min-height: 8vh;
     background: linear-gradient(to right, purple, Orange);
     font-family: sans-serif;
     border: 1px solid Orange;
     transition: all 0.3s ease;
-    
 }
 
 
