@@ -9,12 +9,13 @@
 nav{
     display: flex;
     justify-content: space-around;
-    align-items: center;
-    min-height: 70vh;
+    align-items: top;
+    min-height: 80vh;
     background: linear-gradient(to right, purple, Orange);
     font-family: sans-serif;
     border: 1px solid Orange;
     transition: all 0.3s ease;
+    
 }
 
 
@@ -24,6 +25,7 @@ nav{
     font-weight: 1000;
     letter-spacing: 1px;   
     flex-basis: 20%;
+  
 }
 
 .nav-links{
@@ -46,7 +48,9 @@ nav{
     list-style: none;
     display: inline-block;
     margin: 0 15px;
-    transition: color 0.3s ease;color: 
+    transition: color 0.3s ease;
+    
+  
 }
 
 .nav-links li a:hover {
